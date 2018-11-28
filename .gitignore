@@ -21,3 +21,4 @@ dist
 screenshots
 reports
 .history
+package-lock.json
