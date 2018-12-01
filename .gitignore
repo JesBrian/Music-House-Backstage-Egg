@@ -22,3 +22,4 @@ screenshots
 reports
 .history
 package-lock.json
+yarn.lock
